@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
 <h3 align="center">MSc Student Analytics at Northeastern University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcankaraoglan&label=Profile%20views&color=0e75b6&style=flat" alt="melikeuzunn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melikeuzunn&label=Profile%20views&color=0e75b6&style=flat" alt="melikeuzunn" /> </p>
 
 - 🔭 I’m currently working on **Data Analytics, Data Analysis**
 
